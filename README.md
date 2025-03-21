@@ -1,2 +1,2 @@
 # myproject
-A simplw webpage for restaurant
+A simplw webpage for sunrise restaurant. 
